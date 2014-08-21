@@ -1,0 +1,18 @@
+<div id='bucketeer-<%=bucketeer.id%>'>
+  <h3 class='bucketeer-name'>
+    <%= link_to bucketeer.name %>
+  </h3>
+  <div class='video-link'>
+    <%= link_to 'Watch', bucketeer.video_link %>
+  </div>
+  <ul class='challenged-by'> Challenged by:
+    <% bucketeer.challenged_by.each do |challenger| %>
+      <li><%= link_to challenger %></li>
+    <% end %>
+  </ul>
+  <ul class='challenged'> Challenged:
+    <% bucketeer.challenged.each do |challengee| %>
+      <li><%= link_to challengee %></li>
+    <% end %>
+  </ul>
+</div>
