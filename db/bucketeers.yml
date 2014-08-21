@@ -1,0 +1,44 @@
+# Bucketeers List
+bucketeers:
+          -   name: Pete Cook
+              challenged_by:
+                - Pete Schiller
+              challenged:
+                - Dr. Dre
+                - Bob Iger
+              video_link: https://www.youtube.com/watch?v=f0mLwEo2ilc
+
+          -   name: Dr. Dre
+              challenged_by:
+                - Pete Cook
+              challenged:
+                - Eminem
+                - SnoopDogg
+                - Kendrick Lamar
+              video_link: https://www.youtube.com/watch?v=fM8iK3QJfhg
+
+          -   name: Bill Gates
+              challenged_by:
+                - Mark Zuckerberg
+              challenged:
+                - Elon Musk
+                - Ryan Seacrest
+                - Chris Anderson
+              video_link: https://www.youtube.com/watch?v=XS6ysDFTbLU
+
+          -   name: Satya Nadella
+              challenged_by:
+                - Steve Gleason
+              challenged:
+                - Jeff Bezos
+                - Larry Page
+              video_link: https://www.youtube.com/watch?v=3YDxB6hXWYc
+
+          -   name: Jeff Bezos
+              challenged_by:
+                - Satya Nadella
+              challenged:
+                - William Shatner
+                - George Takei
+                - Patrick Stewart
+              video_link: https://www.youtube.com/watch?v=DFVezzjAhFY
