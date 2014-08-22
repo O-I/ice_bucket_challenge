@@ -1,44 +1,49 @@
 # Bucketeers List
 bucketeers:
-          -   name: Pete Cook
+          -   name: Tim Cook
+              identifier: TimCook
               challenged_by:
-                - Pete Schiller
+                - PhilSchiller
               challenged:
-                - Dr. Dre
-                - Bob Iger
+                - DrDre
+                - BobIger
               video_link: https://www.youtube.com/watch?v=f0mLwEo2ilc
 
           -   name: Dr. Dre
+              identifier: DrDre
               challenged_by:
-                - Pete Cook
+                - TimCook
               challenged:
                 - Eminem
                 - SnoopDogg
-                - Kendrick Lamar
+                - KendrickLamar
               video_link: https://www.youtube.com/watch?v=fM8iK3QJfhg
 
           -   name: Bill Gates
+              identifier: BillGates
               challenged_by:
-                - Mark Zuckerberg
+                - MarkZuckerberg
               challenged:
-                - Elon Musk
-                - Ryan Seacrest
-                - Chris Anderson
+                - ElonMusk
+                - RyanSeacrest
+                - ChrisAnderson
               video_link: https://www.youtube.com/watch?v=XS6ysDFTbLU
 
           -   name: Satya Nadella
+              identifier: SatyaNadella
               challenged_by:
-                - Steve Gleason
+                - SteveGleason
               challenged:
-                - Jeff Bezos
-                - Larry Page
+                - JeffBezos
+                - LarryPage
               video_link: https://www.youtube.com/watch?v=3YDxB6hXWYc
 
           -   name: Jeff Bezos
+              identifier: JeffBezos
               challenged_by:
-                - Satya Nadella
+                - SatyaNadella
               challenged:
-                - William Shatner
-                - George Takei
-                - Patrick Stewart
+                - WilliamShatner
+                - GeorgeTakei
+                - PatrickStewart
               video_link: https://www.youtube.com/watch?v=DFVezzjAhFY

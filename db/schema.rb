@@ -18,11 +18,14 @@ ActiveRecord::Schema.define(version: 20140821212220) do
 
   create_table "bucketeers", force: true do |t|
     t.string   "name"
+    t.string   "identifier"
     t.text     "challenged_by"
     t.text     "challenged"
     t.text     "video_link"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "bucketeers", ["identifier"], name: "index_bucketeers_on_identifier", using: :btree
 
 end
