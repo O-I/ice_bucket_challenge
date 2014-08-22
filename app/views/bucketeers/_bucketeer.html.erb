@@ -1,6 +1,6 @@
 <div id='bucketeer-<%=bucketeer.id%>'>
   <h3 class='bucketeer-name'>
-    <%= link_to bucketeer.name %>
+    <%= link_to bucketeer.name, bucketeer_path(bucketeer.identifier) %>
   </h3>
   <div class='video-link'>
     <%= link_to 'Watch', bucketeer.video_link %>

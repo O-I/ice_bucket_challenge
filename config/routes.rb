@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
   root 'bucketeers#index'
-  resources :bucketeers, only: :index
+  resources :bucketeers, only: [:index, :show]
 end
