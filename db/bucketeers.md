@@ -16,10 +16,8 @@ Elizabeth Banks
 John Barrowman
 Jay Baruchel 
 Bipasha Basu
-Dave Batista
 Jennifer Beals
 Chloe Bennet
-Emily Bett Rickards
 Mayim Bialik
 Jack Black
 Emily Blunt
@@ -85,7 +83,6 @@ John Krasinski
 Akshay Kumar
 Ashton Kutcher
 Daniel Dae Kim
-Akshay Kumar
 Robbie Kay
 Andy Lau
 Maurice LaMarche
@@ -213,7 +210,6 @@ Vanessa Hudgens
 Hyoyeon
 Ice Prince
 Iyanya
-Jay Chou
 Jaejoong
 Don Jazzy
 Judge Jules
@@ -383,7 +379,6 @@ Edge
 Bret Hart
 Mark Henry
 Hulk Hogan
-Dwayne Johnson
 Michelle McCool
 Stephanie McMahon
 Vince McMahon
@@ -543,7 +538,6 @@ Luis Suarez
 Tomáš Tatar
 John Terry
 Tico Torres
-United States men's national basketball team
 Justin Verlander
 Tessa Virtue
 Joe Vitt
@@ -554,7 +548,6 @@ Marc Wilmots
 Tiger Woods
 Caroline Wozniacki
 Juan Camilo Zúñiga
-
 
 ## Tech personalities and entrepreneurs
 
@@ -573,7 +566,7 @@ Terry Guo
 Reed Hastings
 Shawn Layden
 John Legere
-Lei Jun 
+Lei Jun
 Marissa Mayer
 Elon Musk
 Satya Nadella

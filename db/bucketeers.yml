@@ -1,49 +1,200 @@
-# Bucketeers List
+# ALS Ice Bucket Challenge Participants List
 bucketeers:
-          -   name: Tim Cook
-              identifier: TimCook
-              challenged_by:
-                - PhilSchiller
-              challenged:
-                - DrDre
-                - BobIger
-              video_link: https://www.youtube.com/watch?v=f0mLwEo2ilc
+  - name: J. J. Abrams
+    identifier: JJAbrams
+    challenged_by:
+      - StevenSpielberg
+    challenged:
+      - GregGrunberg
+      - StephenKing
+    video_link: https://www.youtube.com/watch?v=kdIBsbxEZ1M
 
-          -   name: Dr. Dre
-              identifier: DrDre
-              challenged_by:
-                - TimCook
-              challenged:
-                - Eminem
-                - SnoopDogg
-                - KendrickLamar
-              video_link: https://www.youtube.com/watch?v=fM8iK3QJfhg
+  - name: Ben Affleck
+    identifier: BenAffleck
+    challenged_by:
+      - TylerPerry
+    challenged:
+      - JimmyKimmel
+      - NeilPatrickHarris
+      - MattDamon
+    video_link: https://www.youtube.com/watch?v=4brPt5xPo0w
 
-          -   name: Bill Gates
-              identifier: BillGates
-              challenged_by:
-                - MarkZuckerberg
-              challenged:
-                - ElonMusk
-                - RyanSeacrest
-                - ChrisAnderson
-              video_link: https://www.youtube.com/watch?v=XS6ysDFTbLU
+  - name: Jessica Alba
+    identifier: JessicaAlba
+    challenged_by:
+      - GwenStefani
+    challenged:
+      - KellySawyer
+      - JaimeKing
+      - JamiePatricof
+    video_link: https://www.youtube.com/watch?v=j-cEwgNPAlg
 
-          -   name: Satya Nadella
-              identifier: SatyaNadella
-              challenged_by:
-                - SteveGleason
-              challenged:
-                - JeffBezos
-                - LarryPage
-              video_link: https://www.youtube.com/watch?v=3YDxB6hXWYc
+  - name: Robbie Amell
+    identifier: RobbieAmell
+    challenged_by:
+    challenged:
+      - StephenAmell
+      - ItaliaRicci
+    video_link: https://www.youtube.com/watch?v=TtDHx3q-w_M
 
-          -   name: Jeff Bezos
-              identifier: JeffBezos
-              challenged_by:
-                - SatyaNadella
-              challenged:
-                - WilliamShatner
-                - GeorgeTakei
-                - PatrickStewart
-              video_link: https://www.youtube.com/watch?v=DFVezzjAhFY
+  - name: Stephen Amell
+    identifier: StephenAmell
+    challenged_by:
+      - RobbieAmell
+    challenged:
+      - GrantGustin
+      - JohnBarrowman
+      - JaredPadalecki
+    video_link: http://youtu.be/zwNpd-QLnC0
+
+  - name: John Barrowman
+    identifier: JohnBarrowman
+    challenged_by:
+      - StephenAmell
+    challenged:
+      - ColtonHaynes
+      - MishaCollins
+      - DavidTennant
+    video_link: https://www.youtube.com/watch?v=Q2Dvove7VT4
+
+  - name: Jennifer Beals
+    identifier: JenniferBeals
+    challenged_by:
+      - KaraSwisher
+    challenged:
+      - TroianBellisario
+      - DonCheadle
+      - KyraSedgwick
+    video_link: https://www.youtube.com/watch?v=2loqvwFls_A
+
+  - name: Dr. Dre
+    identifier: DrDre
+    challenged_by:
+      - TimCook
+    challenged:
+      - Eminem
+      - SnoopDogg
+      - KendrickLamar
+    video_link: https://www.youtube.com/watch?v=fM8iK3QJfhg
+
+  - name: Blake Shelton
+    identifier: BlakeShelton
+    challenged_by:
+    challenged:
+      - GwenStefani
+      - NickLachey
+      - KevinRichardson
+      - JoeyFatone
+      - PharrellWilliams
+      - JasonSegel
+      - MarkRuffalo
+      - RobertDowneyJr
+    video_link: https://www.youtube.com/watch?v=w-a403Oq6pY
+
+  - name: Gwen Stefani
+    identifier: GwenStefani
+    challenged_by:
+      - BlakeShelton
+    challenged:
+      - JessicaAlba
+      - NicoleRichie
+      - GavinRossdale 
+    video_link: https://www.youtube.com/watch?v=KGIIH6Xd6GM
+
+  - name: Steve Ballmer
+    identifier: SteveBallmer
+    challenged_by:
+      - SpencerHawes
+    challenged:
+      - DocRivers
+      - RickNeuheisel
+      - HalWright
+    video_link: www.youtube.com/watch?v=cKnPRosLKpg
+
+  - name: Jeff Bezos
+    identifier: JeffBezos
+    challenged_by:
+      - SatyaNadella
+    challenged:
+      - WilliamShatner
+      - GeorgeTakei
+      - PatrickStewart
+    video_link: https://www.youtube.com/watch?v=DFVezzjAhFY 
+
+  - name: Tim Cook
+    identifier: TimCook
+    challenged_by:
+      - PhilSchiller
+    challenged:
+      - DrDre
+      - BobIger
+    video_link: https://www.youtube.com/watch?v=f0mLwEo2ilc 
+
+  - name: Bill Gates
+    identifier: BillGates
+    challenged_by:
+      - MarkZuckerberg
+    challenged:
+      - ElonMusk
+      - RyanSeacrest
+      - ChrisAnderson
+    video_link: https://www.youtube.com/watch?v=XS6ysDFTbLU
+
+  - name: John Legere
+    identifier: JohnLegere
+    challenged_by:
+      - CarlQuintanilla
+    challenged:
+      - LowellMcAdam
+      - RandallStephenson
+      - MarceloClaure
+    video_link: https://www.youtube.com/watch?v=WLWOpc81VnQ 
+
+  - name: Elon Musk
+    identifier: ElonMusk
+    challenged_by:
+      - BillGates
+    challenged:
+      - JohnnyDepp
+      - TonyHawk
+      - MarkusPersson
+    video_link: https://www.youtube.com/watch?v=htDFMTSEDGU
+
+  - name: Satya Nadella
+    identifier: SatyaNadella
+    challenged_by:
+      - SteveGleason
+    challenged:
+      - JeffBezos
+      - LarryPage
+    video_link: https://www.youtube.com/watch?v=3YDxB6hXWYc 
+
+  - name: Sheryl Sandberg
+    identifier: SherylSandberg
+    challenged_by:
+      - MarkZuckerberg
+    challenged:
+      - KaraSwisher
+      - SueDesmondHellmann
+      - MelindaGates
+      - JocelynGoldstein
+    video_link: https://www.youtube.com/watch?v=pNtp4aYxzpo
+
+  - name: Phil Schiller
+    identifier: PhilSchiller
+    challenged_by:
+      - Beyonce
+    challenged:
+      - TimCook
+      - ChrisODonnell
+    video_link: https://twitter.com/pschiller/status/499751668414566401/photo/1
+
+  - name: Mark Zuckerberg
+    identifier: MarkZuckerberg
+    challenged_by:
+      - ChrisChristie
+    challenged:
+      - BillGates
+      - SherylSandberg
+      - ReedHastings
+    video_link: https://www.youtube.com/watch?v=h60Hanm9kng
