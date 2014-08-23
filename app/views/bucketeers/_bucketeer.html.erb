@@ -7,12 +7,12 @@
   </div>
   <ul class='challenged-by'> Challenged by:
     <% bucketeer.challenged_by.each do |challenger| %>
-      <li><%= link_to challenger %></li>
+      <li><%= link_to challenger, bucketeer_path(challenger) %></li>
     <% end %>
   </ul>
   <ul class='challenged'> Challenged:
     <% bucketeer.challenged.each do |challengee| %>
-      <li><%= link_to challengee %></li>
+      <li><%= link_to challengee, bucketeer_path(challengee) %></li>
     <% end %>
   </ul>
 </div>
