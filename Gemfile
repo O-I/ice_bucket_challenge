@@ -24,6 +24,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'koala'
 gem 'twitter'
+gem 'nokogiri'
 gem 'dotenv-rails'
 
 group :development, :test do
