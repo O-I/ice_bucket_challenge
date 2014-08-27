@@ -1,0 +1,811 @@
+Patrick J. Adams
+Ben Affleck
+Nash Aguas
+Ahn Jae-hyun
+Robbie Amell
+Stephen Amell
+Skylar Astin
+Reza Attaran
+Abhishek Bachchan
+Simon Baker
+John Barrowman
+Jay Baruchel 
+Dave Batista
+Jack Black
+Zach Braff
+Ian Bohen
+Matt Bomer
+J. R. Bourne
+James Callis
+Charlie Carver
+Osric Chau
+Henry Cavill
+Eric Close
+Chris Colfer
+Misha Collins
+Bradley Cooper
+Russell Crowe
+Tom Cruise
+Jon Cryer
+Benedict Cumberbatch
+Josh Dallas
+Brett Dalton
+Dingdong Dantes
+Joe Dempsie
+Matt Damon
+Riteish Deshmukh
+Leonardo DiCaprio
+Vin Diesel
+Robert Downey, Jr.
+Jason Dolley
+Jamie Dornan
+Zac Efron
+Ansel Elgort
+Donald Faison
+Harrison Ford
+Jamie Foxx
+James Franco
+Ricky Gervais
+Zachary Gordon
+Topher Grace
+Grant Gustin
+Mark Hamill
+Tom Hanks
+Neil Patrick Harris
+Anthony Head
+Garrett Hedlund
+Chris Hemsworth
+Liam Hemsworth
+Mark Herras
+Tom Hiddleston
+Tyler Hoechlin
+Nicholas Hoult
+Ricardo Hoyos
+Huang Xiaoming
+Hyun Bin
+Aras Bulut İynemli
+Hugh Jackman
+Bradley James
+Don Johnson
+Dwayne Johnson
+John Krasinski
+Akshay Kumar
+Ashton Kutcher
+Shia LaBeouf
+Andy Lau
+Xian Lim
+Sidharth Malhotra
+Joe Manganiello
+Luis Manzano
+Zanjoe Marudo
+James McAvoy
+Kevin McHale
+Christopher Meloni
+Nico Mirallegro
+Peyman Moaadi
+Julian Morris
+Aga Muhlach
+Alex O'Loughlin
+Chord Overstreet
+Jared Padalecki
+Daniel Padilla
+Robin Padilla
+Jim Parsons
+Robert Pattinson
+Tyler Posey
+Chris Pratt
+Pedro Pascal
+Bahram Radan
+Derek Ramsay
+James Reid
+Rob Riggle
+Mickey Rourke
+Cody Saintgnue
+Horatio Sanz
+Daniel Sharman
+William Shatner
+Charlie Sheen
+Armin Shimerman
+Will Smith
+Brent Spiner
+Patrick Stewart
+Ben Stiller
+Jason Sudeikis
+George Takei
+Channing Tatum
+Justin Theroux
+Verne Troyer
+Nicholas Tse
+Wang Leehom
+Mark Wahlberg
+Ron White
+Won Bin
+Yeo Jin-goo
+Amy Adams
+Jessica Alba
+Bea Alonzo
+Jennifer Aniston
+Ellen Barkin
+Bipasha Basu
+Jennifer Beals
+Troian Bellisario
+Chloe Bennet
+Kathryn Bernardo
+Jessica Biel
+Emily Blunt
+Helena Bonham Carter
+Connie Britton
+Sophia Bush
+Lynda Carter
+Jessica Chastain
+Choi Ji-woo
+Kaley Cuoco
+Anne Curtis
+Georgia van Cuylenburg
+Jenna Dewan
+Nina Dobrev
+Michelle Dockery
+Hilary Duff
+Lena Dunham
+Selma Ergeç
+Tina Fey
+Nur Fettahoğlu
+Gal Gadot
+Lucy Hale
+Melissa Joan Hart
+Mariska Hargitay
+Angie Harmon
+Anne Hathaway
+Tricia Helfer
+Elizabeth Henstridge
+Jennifer Love Hewitt
+Vanessa Hudgens
+Kate Hudson
+Alexa Ilacad
+Pelin Karahan
+Anna Kendrick
+Jaime King
+Joey King
+Sinem Kobal
+Hedda Lettuce
+Andrea Libman
+Angel Locsin
+Samantha Logan
+Lindsay Lohan
+Eva Longoria
+Julia Louis-Dreyfus
+Nadine Lustre
+Kate Mara
+Rooney Mara
+Meghan Markle
+Luna Maya
+Sierra McCormick
+Gates McFadden
+Chloë Grace Moretz
+Jennifer Morrison
+Genevieve Nnaji
+Emily Osment
+Mariel Rodriguez
+Gwyneth Paltrow
+Hayden Panettiere
+Angelica Panganiban
+Park Shin-hye
+Sarah Jessica Parker
+Lana Parrilla
+Piper Perabo
+Paula Peralejo
+Julia Perez
+Tara Reid
+Nicole Richie
+Marian Rivera
+Joan Rivers
+Emma Roberts
+Holland Roden
+Emmy Rossum
+Zoe Saldana
+Susan Sarandon
+Yolanthe Sneijder-Cabau
+Brittany Snow
+Tori Spelling
+Hailee Steinfeld
+Kristen Stewart
+Emma Stone
+Meagan Tandy
+Christine Taylor
+Jenna Ushkowitz
+Meryem Uzerli
+Susana Vieira
+Kerry Washington
+Ming-Na Wen
+Olivia Wilde
+Maisie Williams
+Reese Witherspoon
+Zhang Ziyi
+Larry the Cable Guy
+Denis Leary
+Amy Schumer
+J. J. Abrams
+David Lynch
+Christopher McQuarrie
+José Javier Reyes
+Steven Spielberg
+Bobet Vidanes
+Bob Iger
+Laina Morris
+Neil Gaiman
+Stephen King
+Padma Lakshmi
+George R. R. Martin
+50 Cent
+AOA
+Apl.de.ap
+Iggy Azalea
+Lily Allen
+Rick Allen
+Momoka Ariyasu
+Mel B
+Sara Bareilles
+Lance Bass
+Christian Bautista
+Victoria Beckham
+BESTie
+Justin Bieber
+Big Daddy Weave
+Andrea Bocelli
+Jon Bon Jovi
+Garth Brooks
+Chris Brown
+Michael Bublé
+Jimmy Buffett
+B1A4
+Joseph Calleja
+Vivian Campbell
+Mandy Capristo
+Adriano Celentano
+Eason Chan
+Choi Siwon
+Choi Sooyoung
+Kelly Clarkson
+Les Claypool
+Cheryl Cole
+Phil Collen
+Alice Cooper
+David Crowder
+Charlie Daniels
+Davido
+Plácido Domingo
+Dr. Dre
+Drake
+Candy Dulfer
+Joe Elliott
+Eminem
+Eunhyuk
+EXO
+Tiziano Ferro
+Thomas Rhett
+Foo Fighters
+Becky G
+Liam Gallagher
+The Game
+Martin Garrix
+G-Dragon
+G.E.M.
+Danny Gokey
+Selena Gomez
+Ellie Goulding
+Dave Grohl
+Johnny Hallyday
+Ayumi Hamasaki
+Fred Hammond
+Calvin Harris
+Niall Horan
+Ice Prince
+Iyanya
+Jay Chou
+Jaejoong
+Don Jazzy
+Jeong Jinwoon
+Jo Kwon
+Jovanotti
+Judge Jules
+Jung Eun-ji
+Jung Yong-hwa
+Junsu
+Kahi
+Najwa Karam
+Bill Kaulitz
+Wiz Khalifa
+Kim Hyoyeon
+Kim Hyung-jun
+Kim Jonghyun
+Kwon So-hyun
+Kwon Yuri
+L
+Lady Gaga
+Miranda Lambert
+Tommy Lee
+Sébastien Lefebvre
+Lee Donghae
+Lee Jonghyun
+Lee Kwang Soo
+Lee Sung-yeol
+Lee Taemin
+Leeteuk
+Adam Levine
+Jennifer Lopez
+Demi Lovato
+Macklemore
+MercyMe
+Mick Mars
+Chris Martin
+Martina Mcbride
+Joe McElderry
+Duff McKagan
+Daler Mehndi
+Shawn Mendes
+Bridgit Mendler
+Lena Meyer-Landrut
+Min
+Nicki Minaj
+Kylie Minogue
+Momoiro Clover Z
+Gianni Morandi
+Motley Crue
+Olly Murs
+Kacey Musgraves
+Nickelback
+Omarion
+Rita Ora
+Orianthi
+Sandara Park
+Laura Pausini
+Christina Perri
+Katy Perry
+Arnel Pineda
+Katie Price
+R5
+Eros Ramazzotti
+Shonda Rhimes
+Rihanna
+LeAnn Rimes
+The Roots
+Gavin Rossdale
+Reza Sadeghi
+Lea Salonga
+Julie Anne San Jose
+Rick Savage
+Nicole Scherzinger
+Shakira
+Ed Sheeran
+Blake Shelton
+Gene Simmons
+Cody Simpson
+Eric Singer
+Nikki Sixx
+Skrillex
+Sam Smith
+Trey Songz
+Britney Spears
+Paul Stanley
+Gwen Stefani
+Suho
+Sunny
+Taylor Swift
+Switchfoot
+Swizz Beatz
+Shiori Tamai
+Reni Takagi
+Tommy Thayer
+Rozonda Thomas
+Justin Timberlake
+Ashley Tisdale
+Shania Twain
+Tiësto
+Toby Mac
+Bella Thorne
+Tico Torres
+Tyga
+Usher
+Eddie Vedder
+The Vamps
+VIXX
+Leehom Wang
+Lil Wayne
+Mayu Watanabe
+Matthew West
+Ron Wood
+Charli XCX
+Mohsen Yeganeh
+Yong Junhyung
+YoonA
+Yoon Bora
+"Weird Al" Yankovic
+Zac Brown Band
+Zendaya
+Alessandra Ambrosio
+Gisele Bündchen
+Migbelis Castellanos
+Cara Delevingne
+Poppy Delevingne
+Baptiste Giabiconi
+Rosie Huntington-Whiteley
+Karlie Kloss
+Stella McCartney
+Kate Moss
+Barbara Palvin
+Behati Prinsloo
+Kate Upton
+Suki Waterhouse
+Anna Wintour
+Nikos Aliagas
+Kris Aquino
+Nabilla Benattia
+Big Ang
+Doris Bigornia
+Bishop TD Jakes
+Wolf Blitzer
+Logan Browning
+Kandi Burruss
+Nick Cannon
+Benjamin Castaldi 
+Noli de Castro
+Julie Chen
+Jeremy Clarkson 
+Billy Crawford
+Stephen Colbert
+Ginger Conejero
+Simon Cowell
+Carson Daly
+Karen Davila
+Johnny Fairplay
+Jimmy Fallon
+BB Gandanghari
+Coleen Garcia
+Alex Goude
+Chelsea Handler
+Steve Higgins
+Kylie Jenner
+Jimmy Kimmel
+Rey Langit
+Matt Lauer
+Harvey Levin
+Mario Lopez
+Daniel Mananta
+TJ Manotoc
+Maria Menounos
+Natalie Morales
+Jean-Marc Morandini
+Piers Morgan
+Vhong Navarro
+Conan O'Brien
+Keith Olbermann
+Jamie Oliver
+Richard Quest
+Gordon Ramsay
+Rachael Ray
+Tameka Raymond
+Susanna Reid
+Rachel Riley
+Fernando del Rincón
+Tami Roman
+Coleen Rooney
+Korina Sanchez
+Ryan Seacrest
+Bernadette Sembrano
+Adam Senn
+Shepard Smith
+Julie Snyder
+Martha Stewart
+Ben Shephard
+Anthony Taberna
+Iyanla Vanzant
+Vice Ganda
+Carol Voderman
+Peter R. De Vries
+Jasmin Walia
+Pinky Webb
+Dana White
+Oprah Winfrey
+Yoo Jae-Suk
+Colin Barnett
+John Barrow
+Timothy Bishop
+Bob Brady
+George W. Bush
+Jenna Bush Hager
+Eitan Cabel
+John C. Carney, Jr.
+Chris Christie
+David Cicilline
+Denis Coderre
+Jack Conway
+Ted Cruz
+Alistair Darling
+Leila de Lima
+Bart De Wever
+Karl Dean
+Adam Edelen
+Rob Ford
+Michael Grimm
+Paul Gogarty
+Jim Himes
+Steve Israel
+Lynn Jenkins
+Bobby Jindal
+Fabienne Keller
+Ethel Kennedy
+Adam Kinzinger
+Jim Langevin
+Dov Lipman
+Lim Guan Eng
+Frank LoBiondo
+Konrad Mizzi
+Lisa Murkowski
+Joseph Muscat
+Erik Paulsen
+Ed Perlmutter
+Ron Prosor
+Cesar Purisima
+Matteo Renzi
+Mitt Romney
+Tom Rooney
+Mar Roxas
+Paul Ryan
+Alex Salmond
+Mark Schauer
+Daniel Shapiro
+Brian Sims
+Rick Snyder
+Niel Tupas, Jr.
+Abhisit Vejjajiva
+Scott Walker
+Kurt Angle
+Nikki Bella
+Big Show
+Dixie Carter
+Christian
+Edge
+Eve Torres
+Goldust
+Bill Goldberg
+Bret Hart
+Mark Henry
+Paul Heyman
+Hulk Hogan
+Chris Jericho
+Layla El
+Michelle McCool
+Stephanie McMahon
+Vince McMahon
+Shawn Michaels
+The Miz
+Beth Phoenix
+Diamond Dallas Page
+CM Punk
+Summer Rae
+Jake Roberts
+Seth Rollins
+Zack Ryder
+Triple H
+The Undertaker
+Velvet Sky 
+Renee Young
+Dolph Ziggler
+Ali Ansarian
+Emmanuel Adebayor
+Troy Aikman
+Sergio Agüero
+Christopher Algieri
+El Canelo Álvarez
+Stacey Allaster
+Carmelo Anthony
+Australia national rugby union team
+Victoria Azarenka
+Kevin De Bruyne
+Gareth Bale
+Mario Balotelli
+Charles Barkley
+Usain Bolt
+Frank Beamer
+David Beckham
+Christian Benteke
+Karim Benzema
+Chris Berman
+Gary Bettman
+Paul Bissonnette
+Drew Brees
+David Bryant
+Kobe Bryant
+Ed Carpenter
+Cris Carter
+Fabian Coulthard
+Sidney Crosby
+Demar DeRozan
+Didier Deschamps
+Joe Devance
+Jared Dillinger
+Grigor Dimitrov
+Novak Djokovic
+Nonito Donaire
+Marcus Douthit
+Didier Drogba
+Kevin Durant
+Damir Džumhur
+Essendon Football Club
+Chris Evert
+Marco Fabián
+Radamel Falcao
+Brett Favre
+Roger Federer
+Marouane Fellaini
+Darren Fletcher
+Louis Garneau
+Chris Gayle
+Steven Gerrard
+Dominique Gisin
+Julia Görges
+Mario Götze
+Tommy Haas
+John Harbaugh
+Eden Hazard
+Mike Helton
+Chicharito Hernández
+Ana Ivanovic
+Tom Jackson
+LeBron James
+Derek Jeter
+Keyshawn Johnson
+Adam Jones
+Nigel de Jong
+Jacoby Jones
+Michael Jordan
+Kaká
+Ali Karimi
+Erik Karlsson
+Angelique Kerber
+Vincent Kompany
+Mike Krzyzewski
+Mitch Kupchak
+Nick Kyrgios
+Miguel Layún
+Mario Lemieux
+Joleon Lescott
+Daniel Levy
+Damian Lillard
+Jeremy Lin
+Gary Lineker
+Sabine Lisicki
+Romelu Lukaku
+Henrik Lundqvist
+David Lutz
+Evgeni Malkin
+Diego Maradona
+Sean McColl
+John McEnroe
+Jeremy McGrath
+Rory McIlroy
+Scott McLaughlin
+Lionel Messi
+Sania Mirza
+Scott Moir
+Héctor Moreno
+José Mourinho
+Youssouf Mulumbu
+Andy Murray
+Dikembe Mutombo
+Adrian Mutu
+Rafael Nadal
+Manuel Neuer
+Ozzie Newsome
+New York Jets
+New Zealand national rugby union team
+Neymar
+Greg Norman
+Bud Norris
+David Ortiz
+Mesut Özil
+Tony Parker
+Anastasia Pavlyuchenkova
+Bo Pelini
+Oribe Peralta
+Nick Percat
+Robin van Persie
+Kevin Pietersen
+Marc Pingris
+Gerard Piqué
+Francois du Plessis
+Cesare Prandelli
+Mónica Puig
+Alan Pulido
+Agnieszka Radwańska
+Ivan Rakitic
+Kiefer Ravena
+Diego Reyes
+Mika Aereen Reyes
+Laura Robson
+Aaron Rodgers
+Cristiano Ronaldo
+Valentino Rossi
+Rob Ryan
+Ronda Rousey
+Gabriela Sabatini
+Tim Shaw
+Buck Showalter
+Thiago Silva
+Yuvraj Singh
+Torrey Smith
+South Africa national rugby union team
+Sloane Stephens
+Georges St-Pierre
+Flavius Stoican
+Daniel Sturridge
+Luis Suárez
+P. K. Subban
+Jeric Teng
+Jeron Teng
+John Terry
+Judd Trump
+United States men's national basketball team
+Justin Verlander
+Marcelo Vieira
+Tessa Virtue
+Joe Vitt
+Ron Vlaar
+Heather Watson
+Marc Wilmots
+Tiger Woods
+Caroline Wozniacki
+Yao Ming
+Ferydoon Zandi
+Chris Anderson
+Steve Ballmer
+Jeff Bezos
+Cliff Bleszinski
+Sergey Brin
+John Carmack
+Tim Cook
+Dick Costolo
+Ralph de la Vega
+Reggie Fils-Aimé
+Bill Gates
+Tomas Gorny
+Terry Gou
+Matthew Hammond
+Reed Hastings
+Victor Koo
+Shawn Layden
+John Legere
+Lei Jun 
+Eugene Melnyk
+Yuri Milner
+Elon Musk
+Satya Nadella
+Michael O'Leary
+Larry Page
+Pierre Karl Péladeau
+Markus Persson
+Sheryl Sandberg
+Phil Spencer
+Masayoshi Son
+Andrew Tan
+Mark Zuckerberg
+Cookie Monster
+Hooper, Detroit Pistons mascot
+Kermit the Frog
+Sam the Minuteman, UMass Amherst mascot 
+Samsung Galaxy S5
+Homer Simpson
+Yasushi Akimoto
+Buzz Aldrin
+John Bain
+Bajrakitiyabha 
+Vicki Belo
+Diosa Canales
+Cosmo Wright
+Phoenix Jones
+Mary Jean Lastimosa
+Alicia Machado
+Doug Parker
+Rooster Teeth
+Kara Swisher
+Sola Aoi
