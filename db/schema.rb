@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140821212220) do
+ActiveRecord::Schema.define(version: 20140827185037) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -27,5 +27,24 @@ ActiveRecord::Schema.define(version: 20140821212220) do
   end
 
   add_index "bucketeers", ["identifier"], name: "index_bucketeers_on_identifier", using: :btree
+
+  create_table "tweets", force: true do |t|
+    t.string   "tweet_id"
+    t.datetime "tweet_date"
+    t.text     "tweet_text"
+    t.string   "tweeter_id"
+    t.string   "tweeter_name"
+    t.string   "tweeter_screen_name"
+    t.string   "tweeter_location"
+    t.text     "tweeter_profile_image_url"
+    t.integer  "retweet_count"
+    t.integer  "favorite_count"
+    t.text     "hashtags"
+    t.text     "urls"
+    t.text     "user_mentions"
+    t.integer  "bucketeer_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
 end
