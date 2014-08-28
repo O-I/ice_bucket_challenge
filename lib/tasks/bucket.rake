@@ -14,4 +14,26 @@ namespace :ibc do
       bucket_list.each { |name| file.puts name }
     end
   end
+
+  desc 'Adds every name in bucket list to DB'
+  task insert_bucketeers: :environment do
+    source = Rails.root.join('db/bucket_list.txt')
+    iteration = 0
+    bucketeers = []
+
+    puts 'Adding listed bucketeers to database. This may take a while...'
+    puts Time.now.strftime('%I:%M%p on %a %m/%d/%Y')
+
+    File.open(source).each_line do |name|
+      identity = name.delete(%q{-,.'" })
+      user = $client.user_search(name).first.try(:screen_name) || identity
+      iteration += 1
+      puts "Adding bucketeer #{iteration} #{user}"
+      Bucketeer.create(name: name, identifier: user)
+      sleep 1.minute if iteration % 10 == 0
+    end
+
+    puts 'Bucketeer insertion into database successful.'
+    puts Time.now.strftime('%I:%M%p on %a %m/%d/%Y')
+  end
 end
