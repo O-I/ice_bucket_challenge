@@ -72,4 +72,34 @@ namespace :ibc do
     puts 'Database update complete'
     puts Time.now.strftime('%I:%M%p on %a %m/%d/%Y')
   end
+
+  desc 'Create a YAML file of the bucketeers'
+  task write_yml: :environment do
+    target = Rails.root.join('db/bucket_list.yml')
+    puts "Writing #{target.basename} to db/..."
+
+    File.open(target, 'w') do |file|
+      file.puts 'bucketeers:'
+      Bucketeer.all.each do |bucketeer|
+        file.puts "  - name: #{bucketeer.name}"
+        file.puts "    identifier: #{bucketeer.identifier}"
+        file.puts "    challenged_by:"
+        file.puts "    challenged:"
+
+        nexus = bucketeer.tweets.map(&:user_mentions)
+                         .flatten.map { |u| u[:screen_name] }.uniq
+        nexus.each do |conn|
+          file.puts "      - #{conn}"
+        end
+
+        file.puts "    media_link:"
+        urls = bucketeer.tweets.map(&:urls).flatten.uniq
+        urls.each do |url|
+          file.puts "      - #{url}"
+        end
+        file.puts
+      end
+    end
+    puts "#{target.basename} written"
+  end
 end
