@@ -2293,7 +2293,7 @@ bucketeers:
       - TFBoys
       - HanGeng
       - SophieMarceau
-    date: 
+    date: 8/19
     media_links:
       - https://www.youtube.com/watch?v=MKLZMSWuw6E
 
@@ -2302,7 +2302,7 @@ bucketeers:
     challenged_by:
       - RodneyAtkins
     challenged:
-    date: 
+    date: 8/18
     media_links:
       - http://www.youtube.com/watch?v=Cb7anVIOeeA
 
@@ -2316,7 +2316,7 @@ bucketeers:
       - MannyPacquiao
       - enrique305
       - BrunoMars
-    date: 
+    date: 8/23
     media_links:
       - http://on.fb.me/1pU5daC
 
@@ -2328,7 +2328,7 @@ bucketeers:
       - bobnewhart
       - donrickles
       - melbrooks
-    date: 
+    date: 8/17
     media_links:
       - http://instagram.com/p/r0vmJLKUD4/
 
@@ -2340,7 +2340,7 @@ bucketeers:
       - 501stLegion
       - greggrunberg
       - StephenKing
-    date: 
+    date: 8/17
     media_links:
       - http://youtu.be/kdIBsbxEZ1M
 
@@ -2351,7 +2351,7 @@ bucketeers:
       - justinptheroux
     challenged:
       - VladimirPutin
-    date: 
+    date: 8/26
     media_links:
       - https://www.youtube.com/watch?v=Uvkqr-S-1Ac
 
@@ -2359,7 +2359,7 @@ bucketeers:
     identifier: DirekJoey
     challenged_by:
     challenged:
-    date: 
+    date: 8/26
     media_links:
       - http://instagram.com/p/sJb4R1QtmR/
 
@@ -2421,6 +2421,7 @@ bucketeers:
     identifier: StephenKing
     challenged_by:
       - MLauer
+      - foofighters
     challenged:
       - JohnGrisham
     date: 8/19
@@ -2645,41 +2646,54 @@ bucketeers:
     date: 8/23
     media_links:
       - https://www.youtube.com/watch?v=wysc5sAkC2Y
-# checked all above
+
   - name: Mandy Capristo
     identifier: MandyCapristo
     challenged_by:
+      - MesutOzil1088
     challenged:
-    date: 
+      - Schmidt # ??
+      - SaraNuru # id?
+    date: 8/20
     media_links:
+      - https://www.youtube.com/watch?v=ZqTJjjEga2g
 
   - name: Adriano Celentano
-    identifier: CelentanoClub
+    identifier: AdrianoCelentano
     challenged_by:
     challenged:
-    date: 
+    date: 8/23
     media_links:
+      - https://www.youtube.com/watch?v=wPwg8eBPxcU
 
   - name: Eason Chan
-    identifier: chaneason
+    identifier: EasonChan
     challenged_by:
     challenged:
-    date: 
+    date: 8/19
     media_links:
+      - https://www.youtube.com/watch?v=fCi46cL6Hzo
 
   - name: Choi Siwon
     identifier: siwon407
     challenged_by:
     challenged:
-    date: 
+      - leedonghae # I id
+      - AllRiseSilver
+    date: 8/18
     media_links:
+      - http://instagram.com/p/r2TIEfivYu/
 
   - name: Choi Sooyoung
-    identifier: SooyoungFacts
+    identifier: ChoiSooyoung
     challenged_by:
     challenged:
-    date: 
+      - DanielHenney # all on FB
+      - LeeJonghyuk
+      - ShinSeKyung
+    date: 8/21
     media_links:
+      - http://instagram.com/p/r9WOXFrVvy/
 
   - name: David Crowder
     identifier: crowdermusic
@@ -2687,43 +2701,55 @@ bucketeers:
     challenged:
       - christomlin
       - louiegiglio
-    date: 
+      - jonforeman
+    date: 8/14
     media_links:
       - http://instagram.com/p/rsKNPqAcYU/
 
   - name: Les Claypool
-    identifier: PrawnSongRecord
+    identifier: LesClaypool
     challenged_by:
     challenged:
-    date: 
+      - StewartCopeland # Police
+      - RichardReedParry # Arcade Fire
+      - GeddyLee
+    date: 8/19
     media_links:
+      - https://www.youtube.com/watch?v=Tjd_hLtaQxA
 
   - name: Davido
     identifier: iam_Davido
     challenged_by:
+      - DONJAZZYMOHITS
     challenged:
-      - theNETng
-    date: 
+      - 2faceidibia1 # I ids
+      - setoo9
+      - chairmanhkn
+    date: 8/20
     media_links:
-      - http://bit.ly/1modVJ6
+      - http://instagram.com/p/r7JT0pqUAB/
 
-  - name: Phil Collen
+  - name: Phil Collen # Def Leppard
     identifier: philkcollen
     challenged_by:
+      - MotleyCrue
     challenged:
-    date: 
+      - U2
+      - Prince
+      - davidcoverdale
+    date: 8/23
     media_links:
+      - https://www.youtube.com/watch?v=wysc5sAkC2Y
 
   - name: Alice Cooper
     identifier: RealAliceCooper
     challenged_by:
+      - ticotorres1
     challenged:
-      - eBay
-      - alsassociation
-    date: 
+      - MotleyCrue
+      - JohhnyDepp
+    date: 8/20
     media_links:
-      - http://www.ebay.com/itm/-/321498549192?roken=cUgayN
-      - http://instagram.com/p/r8eyoBNJ2C/
       - http://instagram.com/p/r8S2iBNJz5/
 
   - name: Def Leppard
@@ -2741,129 +2767,147 @@ bucketeers:
   - name: Dr. Dre
     identifier: drdre
     challenged_by:
-    challenged:
-      - beatsbydre
       - tim_cook
-      - drdre
+    challenged:
       - Eminem
       - SnoopDogg
       - kendricklamar
-    date: 
+    date: 8/18
     media_links:
       - http://beats.is/DrDreALSIceBucketChallenge
 
-  - name: Eunhyuk
+  - name: Eun Hyuk
     identifier: AllRiseSilver
     challenged_by:
+      - siwon407
     challenged:
-    date: 
+    date: 8/19
     media_links:
       - http://instagram.com/p/r35q-Oib8e/
 
   - name: Plácido Domingo
     identifier: PlacidoDomingo
     challenged_by:
+      - FernandoAlonso
     challenged:
       - lang_lang
-      - PlacidoDomingo
-      - GianGinoble
-      - MRmusica
       - piero_barone
+      - GianGinoble
       - alo_oficial
       - AnnaNetrebko
       - ilvolo
-    date: 
+      - IBoschetto
+    date: 8/23
     media_links:
-      - http://www.alsa.org/donate/
-      - http://instagram.com/p/sFXzE0syhh/
       - https://www.facebook.com/photo.php?v=705946296140640&set=vb.148369531898322&type=2&theater
 
   - name: Thomas Rhett
     identifier: ThomasRhett
     challenged_by:
+      - JustinColeMoore
     challenged:
-      - mirandalambert
       - ashleymonroe
       - DierksBentley
       - RhettAkins
-    date: 
+    date: 8/15
     media_links:
       - http://on.fb.me/1oXT6ch
 
   - name: Drake
     identifier: Drake
     challenged_by:
+      - Tyga
+      - BrandonJennings
+      - ColinKaepernick
     challenged:
-    date: 
+      - Beyonce
+    date: 8/17
     media_links:
+      - http://instagram.com/p/r00hV0RZS3/ # unofficial, at concert
 
   - name: Becky G
     identifier: iambeckyg
     challenged_by:
-    challenged:
       - 1027KIISFM
       - DespiertaAmeric
-    date: 
+    challenged:
+      - jimmydee14
+      - rahrahmusic
+      - thedoctorluke
+      - planetvi
+      - jakemillermusic
+      - drama
+      - outnameisMagic
+      - katyperry
+    date: 8/18
     media_links:
       - http://instagram.com/p/r3PwhRzEtZ/
 
-  - name: Joe Elliott
-    identifier: joeelliottshow
+  - name: Joe Elliott # Def Leppard
+    identifier: JoeElliott
     challenged_by:
+      - MotleyCrue
+      - DuffMcKagan
     challenged:
-    date: 
+      - U2
+      - Prince
+      - davidcoverdale
+    date: 8/23
     media_links:
+      - https://www.youtube.com/watch?v=wysc5sAkC2Y
 
   - name: Eminem
     identifier: Eminem
     challenged_by:
-    challenged:
       - drdre
+    challenged:
       - RickRubin
-      - mRpOrTeR7
-      - rihanna
-      - beatsbydre
-      - tim_cook
-      - Eminem
-      - SnoopDogg
-      - kendricklamar
-    date: 
+    date: 8/24
     media_links:
-      - http://youtu.be/zKqgM4ImdQU
-      - http://bit.ly/EmALS
-      - http://beats.is/DrDreALSIceBucketChallenge
+      - https://www.facebook.com/photo.php?v=10152266745590079&set=vb.45309870078&type=2&theater&notif_t=video_processed
 
   - name: Martin Garrix
     identifier: MartinGarrix
     challenged_by:
-    challenged:
-      - Deorro
       - steveaoki
-      - MartinGarrix
-    date: 
+      - tiesto
+      - NickyRomero
+    challenged:
+      - edsheeran
+      - DillonFrancis
+      - WillemAnderson # King of Netherlands
+    date: 8/18
     media_links:
+      - https://www.youtube.com/watch?v=yEk3rjqyknQ
 
   - name: EXO
-    identifier: SMent_EXO
+    identifier: SMent_EXO # fan account ?
     challenged_by:
     challenged:
-    date: 
+    date: 8/22
     media_links:
-      - http://instagram.com/p/r8P6AFLkOl/
+      - https://www.youtube.com/watch?v=YSinDuyUBPA
 
   - name: Tiziano Ferro
     identifier: TizianoFerro
     challenged_by:
+     - LauraPausini
     challenged:
-    date: 
+      - matteorenzi #ids?
+      - BeppeGrillo
+      - SilvioBerluaconi
+    date: 8/21
     media_links:
+      - https://www.youtube.com/watch?v=WmEusL-xm4Q
 
   - name: Judge Jules
     identifier: RealJudgeJules
     challenged_by:
     challenged:
       - DJDannyHoward
-    date: 
+      - NikTurner
+      - GordonPhillips
+    date: 8/22
     media_links:
       - http://youtu.be/oojfSRDYjYo
 
@@ -2874,7 +2918,7 @@ bucketeers:
       - raghebalama
       - elissakh
       - Ahlam_Alshamsi
-    date: 
+    date: 8/20
     media_links:
       - http://instagram.com/p/r7XlvUwZyY/
 
@@ -2882,8 +2926,7 @@ bucketeers:
     identifier: special1004
     challenged_by:
     challenged:
-      - YouTube
-    date: 
+    date: 8/20
     media_links:
       - http://www.youtube.com/watch?v=hVtVGHHmzXg&sns=tw
 
@@ -2891,44 +2934,51 @@ bucketeers:
     identifier: liamgallagher
     challenged_by:
     challenged:
-    date: 
-    media_links:
+    date: 8/22
+    media_links: https://www.youtube.com/watch?v=op9sAL6cA8w
 
   - name: The Game
-    identifier: TheGameBET
+    identifier: thegame
     challenged_by:
+      - chrisbrown
     challenged:
-    date: 
+      - 1Omarion
+      - tyrese
+      - troubleman31
+    date: 8/17
     media_links:
+      - http://instagram.com/p/r0uyb8Gohg/
 
   - name: MercyMe
     identifier: mercyme
     challenged_by:
     challenged:
-      - BartMillard
+      - theJoshHamilton
+      - RADickey43
+      - UncleCharlie50
     date: 
     media_links:
-      - http://bit.ly/1p0aqIF
+      - https://www.youtube.com/watch?v=KQvLWSt-pMA
 
   - name: G-Dragon
     identifier: IBGDRGN
     challenged_by:
-    challenged:
       - jinuSEAN3000
-      - ygent_official
-      - YouTube
-    date: 
+      - verbal_ambush
+      - angelababyct
+    challenged:
+    date: 8/23
     media_links:
-      - http://instagram.com/p/sCtEgDtgKp/
       - http://instagram.com/p/sCqRaANgGp/
-      - http://youtu.be/HyffCV7rpNo
+      - http://instagram.com/p/sCtEgDtgKp/
 
   - name: G.E.M.
     identifier: GEMoving
     challenged_by:
     challenged:
-    date: 
+    date: 8/20
     media_links:
+      - https://www.facebook.com/video.php?v=478743745562657
 
   - name: Danny Gokey
     identifier: dannygokey
@@ -2942,7 +2992,7 @@ bucketeers:
       - jamiegraceh
       - coltondixon
       - JSquidward
-    date: 
+    date: 8/16
     media_links:
       - http://youtu.be/Y3hK4woKl20
       - http://instagram.com/p/rx172zHdxT/
@@ -2950,144 +3000,177 @@ bucketeers:
   - name: Selena Gomez
     identifier: selenagomez
     challenged_by:
+      - taylorswift13
+      - RyanSeacrest
     challenged:
-    date: 
+      - caradelevingne
+      - sukiwaterhouse
+      - JamesFrancoTV
+    date: 8/16
     media_links:
+      - http://instagram.com/p/rxw7bSOjNo/
+      - http://instagram.com/p/rxxFUxujN4/
 
   - name: Ellie Goulding
     identifier: elliegoulding
     challenged_by:
     challenged:
-      - jenlou_r
-      - elliegoulding
-    date: 
+      - CassGowing
+      - alannick19
+    date: 8/20
     media_links:
       - http://instagram.com/p/r7lKqEzfZ4/
 
   - name: Dave Grohl
     identifier: FooFightersDave
     challenged_by:
+      - zacbrownband
     challenged:
-    date: 
+      - StephenKing
+      - JohnTravolta
+      - JackBlack42
+    date: 8/19
     media_links:
+      - http://youtu.be/XLZOjLv0_6k
 
   - name: Johnny Hallyday
     identifier: JohnnySjh
     challenged_by:
+      - jeanimbert
     challenged:
-    date: 
+      - PierceBrosnan
+      - yarolpoupaud
+      - PierreRambaldi
+    date: 8/20
     media_links:
+      - http://vimeo.com/103961097
 
   - name: Ayumi Hamasaki
     identifier: ayu_19980408
     challenged_by:
     challenged:
-      - faridyu
-      - ayu_19980408
-    date: 
+      - endals # ids?
+      - hiroexile
+      - aaanaoya
+      - yudarvish
+    date: 8/19
     media_links:
-      - http://www.alsa.org/donate/
-      - https://www.facebook.com/ayu.official
+      - https://www.facebook.com/video.php?v=874839399200850
 
   - name: Fred Hammond
     identifier: RealFredHammond
     challenged_by:
     challenged:
-    date: 
+    date: 8/21
     media_links:
+      - https://www.facebook.com/video.php?v=10152250591870684
 
   - name: Calvin Harris
     identifier: CalvinHarris
     challenged_by:
-    challenged:
-      - deadmau5
       - Tinashe
       - tiesto
-    date: 
+    challenged:
+      - emilnava
+      - evashaw
+      - johnnewmanmusic
+    date: 8/18
     media_links:
       - http://instagram.com/p/r2Qk-0N3GH/
 
   - name: Niall Horan
     identifier: NiallOfficial
     challenged_by:
+      - eddievedder_
     challenged:
       - DjokerNole
-      - NiallOfficial
-      - sabinelisicki
       - Louis_Tomlinson
-    date: 
+      - JohnTerryGMF
+    date: 8/18
     media_links:
-      - http://youtu.be/RV1JFT1rBAE
       - https://vimeo.com/103728414
 
   - name: Ice Prince
     identifier: Iceprincezamani
     challenged_by:
     challenged:
-      - Africax5
-      - Iceprincezamani
-      - YouTube
-    date: 
+      - mi_abaga
+      - sarkodie1
+      - akaworldwide
+      - wizkidayo
+      - paedeezy
+      - mugeezxmugeez
+      - iamsmade
+      - rickiedavies
+      - iamdonbazy
+      - nc_officials
+      - beardon1
+      - adelekspr
+    date: 8/20
     media_links:
-      - http://africax5.tv/watch/1483/ice-prince-does-the-ice-bucket-challenge-iceprincezamani
       - http://youtu.be/qtlPcKoO9Bg?a
       - http://fireofzamaniphoto.com/7uo
 
   - name: Iyanya
     identifier: Iyanya
     challenged_by:
+      - DONJAZZYMOHITS
     challenged:
-    date: 
+      - joseph_yobo3
+      - peterpsquare
+      - yvonnenelsongh
+    date: 8/19
     media_links:
+      - http://instagram.com/p/r5L2FzIOBY/
 
   - name: Jay Chou
     identifier: JayChou
     challenged_by:
+      - AndyLauTakWah
     challenged:
-    date: 
+    date: 8/19
     media_links:
-      - http://youtu.be/KFuVKDwtwf0
-      - http://youtu.be/ZTZ2Y3xJG08
-      - http://youtu.be/iR5-hq7Kz4s
+      - https://www.youtube.com/watch?v=ZTZ2Y3xJG08
 
   - name: Jaejoong
     identifier: bornfreeonekiss
     challenged_by:
+      - Ailee
     challenged:
-    date: 
+      - HwangJungEum
+      - KimGyuri
+      - ChoiTaejun
+    date: 8/20
     media_links:
+      - http://instagram.com/p/r7JZWUEnhp/
 
   - name: Jeong Jinwoon
     identifier: 2AMjinwoon
     challenged_by:
     challenged:
-    date: 
+    date: 8/22
     media_links:
+      - http://instagram.com/p/r_O29UhMs7/
+      - http://instagram.com/p/r_PFTwBMtI/
 
   - name: Jo Kwon
     identifier: 2AMkwon
     challenged_by:
     challenged:
-    date: 
+    date: 8/21
     media_links:
+      - http://instagram.com/p/r91xSXSqnP/
 
   - name: Jovanotti
     identifier: lorenzojova
     challenged_by:
-    challenged:
       - CremoniniCesare
-      - ValeYellow46
-      - LauraPausini
-      - lorenzojova
-      - matteorenzi
-      - bealorenzin
+    challenged:
       - mengonimarco
       - elisatoffoli
       - RedRonnie
-    date: 
+    date: 8/21
     media_links:
-      - http://www.aisla.it
-      - https://www.facebook.com/photo.php?v=10152288922230222&set=vb.328968205221&type=2&theater
       - https://www.youtube.com/watch?v=vgCOG-MMO6c
 
   - name: Daler Mehndi
@@ -3097,7 +3180,7 @@ bucketeers:
       - SrBachchan
       - iamsrk
       - priyankachopra
-    date: 
+    date: 8/19
     media_links:
       - https://www.youtube.com/watch?v=92W9x8F-2n4
 
@@ -3105,22 +3188,25 @@ bucketeers:
     identifier: jeunjiy93
     challenged_by:
     challenged:
-    date: 
+    date: 8/20
     media_links:
+      - https://www.youtube.com/watch?v=9J-xgt07P34
 
   - name: Jung Yong-hwa
-    identifier: Jung_Cnblue
+    identifier: JYHeffect
     challenged_by:
     challenged:
-    date: 
+    date: 8/21
     media_links:
+      - https://www.youtube.com/watch?v=d64TASO-UJo
 
   - name: Junsu
-    identifier: 2pmJunsuBot
+    identifier: 2pmJunsu # id?
     challenged_by:
     challenged:
-    date: 
+    date: 8/21
     media_links:
+      - https://www.youtube.com/watch?v=BUgtUfroyT0 # don't know if this is right
 
   - name: Kahi
     identifier: misskahi
@@ -3128,26 +3214,30 @@ bucketeers:
     challenged:
       - I_nanaaaa
       - YUJIN_SO
-    date: 
+    date: 8/22
     media_links:
       - http://instagram.com/p/r_S8IhzIPc/
-      - http://instagram.com/p/r_Sxs3zIPK/
-      - http://instagram.com/p/r_So1fTIPC/
 
   - name: Bill Kaulitz
-    identifier: BillKaulitzFans
+    identifier: BillKaulitz
     challenged_by:
     challenged:
-    date: 
+    date: 8/23
     media_links:
+      - http://instagram.com/p/sBw2o1tTgS/
+      - https://www.facebook.com/video.php?v=10152405377398650
 
   - name: Wiz Khalifa
     identifier: wizkhalifa
     challenged_by:
     challenged:
-    date: 
+      - Drake
+      - iamdiddy
+      - richforever
+    date: 8/18
     media_links:
-
+      - https://www.facebook.com/video.php?v=10152596925721142
+# checked up to here
   - name: Kim Hyoyeon
     identifier: GirlsGeneration
     challenged_by:
@@ -3293,7 +3383,7 @@ bucketeers:
     media_links:
       - http://instagram.com/p/r3IiElNQSn/
       - http://instagram.com/p/r0U2DSGuGI/
-
+# checkpoint
   - name: Macklemore
     identifier: macklemore
     challenged_by:
@@ -3963,7 +4053,7 @@ bucketeers:
     media_links:
 
   - name: Cara Delevingne
-    identifier: Caradelevingne
+    identifier: caradelevingne
     challenged_by:
     challenged:
     date: 
@@ -4132,7 +4222,7 @@ bucketeers:
     challenged:
     date: 
     media_links:
-
+# checkpoint
   - name: Gisele Bündchen
     identifier: giseleofficial
     challenged_by:
